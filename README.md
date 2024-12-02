@@ -3,7 +3,7 @@
   <a href="https://medium.com/@dassis.mateus" target="_blank"><img src="https://github.com/massis93/massis93/blob/main/medium.png" width="30px"></a>
 </div>
 
-## 👋 Olá, Mundo!
+## 😅 Olá, Mundo!
 <br>
 
 Seja bem-vindo(a) ao meu portifólio de analista de dados! Sou Mateus, bacharel em Engenharia de Controle e Automação. Atualmente trabalho com análise de dados em uma empresa no ramo de Ecommerce.
@@ -19,11 +19,15 @@ Acesse meu repertório de projetos <a href="https://github.com/massis93/Projetos
 ## 🔧Soft Skills
 - Perfil Analítico
 - Resolução de Problemas
+- Fortes Habilidades de Cálculo e Estatística
 
 <br>
 
 
 ## 🔧Hard Skills
-<img src="https://github.com/massis93/massis93/blob/main/linkedin.png" width="30px" target="_blank">
+- Python 
+- Excel
+- SQL
+- Power BI
 
 
