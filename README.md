@@ -15,3 +15,15 @@ Acesse meu repertório de projetos <a href="https://github.com/massis93/Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=massis93&theme=dracula&repo=Projetos_Analise_Dados)](https://github.com/massis93/Projetos_Analise_Dados)
 
 <br>
+
+## 🔧Soft Skills
+- Perfil Analítico
+- Resolução de Problemas
+
+<br>
+
+
+## 🔧Hard Skills
+<img src="https://github.com/massis93/massis93/blob/main/linkedin.png" width="30px" target="_blank">
+
+
