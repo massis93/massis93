@@ -1,16 +1,15 @@
-## Hi there 👋
+<div>
+  <a href="https://www.linkedin.com/in/mateusdeassis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+</div>
 
-<!--
-**massis93/massis93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá!
+<br>
 
-Here are some ideas to get you started:
+Sou Mateus, bacharel em Engenharia de Controle e Automação. Atualmente trabalho com análise de dados em uma empresa no ramo de Ecommerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você encontrará meu portifólio de dados como análises de dados, estatística, dashboards.
+
+Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades nas áreas de dados e saúde digital. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> e/ou acessar o [Medium](https://medium.com/@ndosanjosc). 
+
+<br>
