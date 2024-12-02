@@ -12,6 +12,6 @@ Aqui você encontrará análises de dados, estatística, dashboards.
 
 Acesse meu repertório de projetos <a href="https://github.com/massis93/Projetos_Analise_Dados">aqui no Github</a> e no meu [Medium](https://medium.com/@dassis.mateus). 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=massis93&theme=dracula&repo=projetos-analise-dados)](https://github.com/massis93/Projetos_Analise_Dados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=massis93&theme=dracula&repo=Projetos_Analise_Dados)](https://github.com/massis93/Projetos_Analise_Dados)
 
 <br>
