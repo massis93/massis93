@@ -8,8 +8,6 @@
 
 Seja bem-vindo(a) ao meu portifólio de analista de dados! Sou Mateus, bacharel em Engenharia de Controle e Automação. Atualmente trabalho com análise de dados em uma empresa no ramo de Ecommerce.
 
-Aqui você encontrará análises de dados, estatística, dashboards.
-
 Acesse meu repertório de projetos <a href="https://github.com/massis93/Projetos_Analise_Dados">aqui no Github</a> e no meu [Medium](https://medium.com/@dassis.mateus). 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=massis93&theme=dracula&repo=Projetos_Analise_Dados)](https://github.com/massis93/Projetos_Analise_Dados)
