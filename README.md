@@ -18,7 +18,8 @@ Seja bem-vindo(a) ao meu portifólio de analista de dados! Sou Mateus, bacharel 
 ## 🔧Soft Skills
 - Perfil Analítico
 - Resolução de Problemas
-- Fortes Habilidades de Cálculo e Estatística
+- Pensamento Crítico
+- Melhoria contínua de processos
 
 <br>
 
