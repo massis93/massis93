@@ -14,6 +14,13 @@ Seja bem-vindo(a) ao meu portifólio de analista de dados! Sou Mateus, bacharel 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=massis93&theme=dracula&repo=Projetos_Analise_Dados)](https://github.com/massis93/Projetos_Analise_Dados)
 
 <br>
+Bacharel em Engenharia tenho 3 anos de experiência em uma empresa de varejo online tenho conhecimento na área Contábil, Financeira e Ecommerce.
+
+Tenho uma empresa de pequeno porte que vende em plataformas como Shein e Shopee e diariamente faço pesquisa de mercado, monitoramento dos KPI, anúncios baseados em teste A/B, faço análise de dados com Excel e Dashboards gerados com Power BI, cuido da parte Contábil e Financeira da empresa e também trabalho com Ads dentro das plataformas (analisando o ROAS, CTR e outros KPI).
+
+Tenho conhecimentos avançados em SQL, Power BI, Excel e Biblioteca Pandas para Python, e já trabalhei com grandes volumes de dados. Possuo experiência em ETL e pensamento crítico para gerar insights dentro de uma análise de dados.
+
+<br>
 
 ## 🔧Soft Skills
 - Perfil Analítico
