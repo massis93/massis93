@@ -15,11 +15,11 @@ Seja bem-vindo(a) ao meu portifólio de analista de dados! Sou Mateus, bacharel 
 
 ## 🧑 Quem sou eu?
 <br>
-Bacharel em Engenharia tenho 3 anos de experiência em uma empresa de varejo online tenho conhecimento na área Contábil, Financeira e Ecommerce.
+Bacharel em Engenharia há 7 anos trabalhando com varejo, com proficiência avançada em Power BI, SQL e Excel. Tenho experiência em trabalhar com grandes volumes de dados e gerar insights estratégicos para o crescimento da empresa. Trabalho há 3 anos com marketplaces da Shopee e Shein, gerenciando vendas e Ads através dos KPI como ROAS, ROI, CTR, Faturamento, Visitas, Taxa de Conversão, número de Pedidos, Ticket Médio.
 
-Tenho uma empresa de pequeno porte que vende em plataformas como Shein e Shopee e diariamente faço pesquisa de mercado, monitoramento dos KPI, anúncios baseados em teste A/B, faço análise de dados com Excel e Dashboards gerados com Power BI, cuido da parte Contábil e Financeira da empresa e também trabalho com Ads dentro das plataformas (analisando o ROAS, CTR e outros KPI).
+Tenho experiência em criação de Dashboards interativos com ferramentas de DATAVIZ e Análise de Dados. Possuo background Financeiro e Contábil, com experiência em fluxo de caixa, relatórios financeiros, malotes contábeis, emissão de nota fiscal.
 
-Tenho conhecimentos avançados em SQL, Power BI, Excel e Biblioteca Pandas para Python, e já trabalhei com grandes volumes de dados. Possuo experiência em ETL e pensamento crítico para gerar insights dentro de uma análise de dados.
+Possuo um portfólio em que provo minhas habilidades de modelagem de grandes volumes de dados, ETL, análise exploratória, descritiva e diagnóstica, e um bom storytelling com dados. Além disso, possuo pensamento crítico e analítico para fornecer insights valiosos para a empresa.
 
 <br>
 
